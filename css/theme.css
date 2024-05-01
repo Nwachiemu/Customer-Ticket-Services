@@ -1,0 +1,153 @@
+
+
+.bgSettings{
+
+
+background:#F8F8F8  url(../images/bg.png) no-repeat;
+}
+
+
+.bgSettingsPassword{
+
+
+background:#F8F8F8  url(../images/bg.jpg) no-repeat;
+}
+
+
+ .upSpace {
+margin-top:50px;
+ 
+ 
+  
+  }
+ .NavColor { 
+      background: #DDDDDD;
+  background: -webkit-linear-gradient(    #EEEEEE,   #DDDDDD);
+  background: linear-gradient(#EEEEEE, #DDDDDD);
+  border-bottom: 2px solid  #BDBDBD;
+  
+
+  
+  
+      color: #86450c;
+  }
+  .ENav .navbar-nav > li > a {
+  color:#1D1513;
+   font-size:16px;
+ 
+}
+.ENav .navbar-nav > li > a:hover,
+.ENav .navbar-nav > li > a:focus {
+  color:#141414;
+ 
+  background-color: transparent;
+}
+ .info{
+border:1px solid   #BCBCBC ;
+border-left:none;
+border-right:none;
+ 
+font-weight:bold;
+	
+	font-size:14px;	
+	outline:none; 
+
+	
+	
+		
+	color:#575757;
+	padding-bottom:1px;
+	padding-top:1px;
+	text-decoration:none; 
+	
+	
+      background: #DDDDDD;
+  background: -webkit-linear-gradient(    #EEEEEE,   #DDDDDD);
+  background: linear-gradient(#EEEEEE, #DDDDDD);
+
+
+
+}
+ .file {
+  visibility: hidden;
+  position: absolute;
+}
+  
+  
+  
+  .footer2 { 
+
+
+  background: #DDDDDD;
+  background: -webkit-linear-gradient(    #EEEEEE,   #DDDDDD);
+  background: linear-gradient(#EEEEEE, #DDDDDD);
+  border-bottom: 2px solid  #BDBDBD;
+   box-shadow: 1px 2px 5px 3px rgba(0, 0, 0, 0.7);
+  
+  
+  
+  padding: 15px 0; color:#383838; font-size: 13px; width:100%; }
+	.footer2 a { color:#006699; }
+		.footer2 a:hover { color:#FF9933; }
+		.footer2 p { margin: 0; }
+		
+		
+		
+		
+.panel-green{
+ background: #DDDDDD;
+  background: -webkit-linear-gradient(    #EEEEEE,   #DDDDDD);
+  background: linear-gradient(#EEEEEE, #DDDDDD);
+color:#686868;
+}
+.panel-green a{
+
+color:#686868;
+}
+
+
+
+
+.panel-mtn{
+background:#FFCC00;
+color:#FFFFFF;
+}
+.panel-mtn a{
+
+color:#333333;
+
+}
+
+
+.panel-glo{
+background:#00CC00;
+color:#FFFFFF;
+}
+.panel-glo a{
+
+color:#333333;
+
+}
+
+.panel-air{
+background:#FF0000;
+color:#FFFFFF;
+}
+.panel-air a{
+
+color:#333333;
+
+}
+
+.panel-eti{
+background:#006600;
+color:#FFFFFF;
+}
+.panel-eti a{
+
+color:#333333;
+
+}
+
+
+
